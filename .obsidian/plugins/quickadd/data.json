@@ -33,6 +33,26 @@
       "fileExistsBehavior": {
         "kind": "prompt"
       }
+    },
+    {
+      "id": "2eed8e89-79b4-4d1c-b798-158e14275200",
+      "name": "一键生成稿件文件夹",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "一键生成稿件文件夹",
+        "id": "8b0e49c5-e0d1-416f-b5bb-f32889556bcf",
+        "commands": [
+          {
+            "name": "一键生成稿件文件夹",
+            "type": "UserScript",
+            "id": "ec348595-0f28-4117-88aa-fa5849571ada",
+            "path": "scripts/一键生成稿件文件夹.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

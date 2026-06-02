@@ -7,5 +7,14 @@
       ],
       "key": "Q"
     }
+  ],
+  "quickadd:choice:2eed8e89-79b4-4d1c-b798-158e14275200": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }
