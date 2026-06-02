@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "D:\wenjian\Obsidian仓库\analyze_subtitles.py", line 107, in <module>
-    print(f"\U0001f4d6 正在解析字幕文件: {vtt_file}")
-    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f4d6' in position 0: illegal multibyte sequence
