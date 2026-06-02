@@ -4,20 +4,20 @@
   "title": "# AI 内容生产：效率与创意的平衡\n\n人工智能正在深刻改变内容生产的方式。从文案撰写到视频生...",
   "titleGenerationStatus": "success",
   "createdAt": 1780041356171,
-  "updatedAt": 1780390948217,
-  "lastResponseAt": 1780390948217,
+  "updatedAt": 1780391172432,
+  "lastResponseAt": 1780391172432,
   "sessionId": "cb7f99ac-bff1-4f95-ac19-772679bb8852",
   "providerState": {
     "providerSessionId": "cb7f99ac-bff1-4f95-ac19-772679bb8852"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 203,
+    "inputTokens": 125,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 70656,
+    "cacheReadInputTokens": 72576,
     "contextWindow": 200000,
-    "contextTokens": 70859,
-    "percentage": 35,
+    "contextTokens": 72701,
+    "percentage": 36,
     "contextWindowIsAuthoritative": true
   }
 }
