@@ -35,21 +35,27 @@
           "content": "UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。",
           "pubDate": "Sun, 07 Jun 2026 06:25:18 GMT",
           "guid": "https://aihot.virxact.com/cmq3eppdj06j7sl97koo7u9xf",
-          "read": false,
+          "read": true,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "Saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "AI HOT — 精选",
           "feedUrl": "https://aihot.virxact.com/feed.xml",
           "coverImage": "",
           "summary": "UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。",
           "author": "noreply@aihot.virxact.com (MarkTechPost（RSS）)",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
           "image": "",
           "category": "",
-          "episodeType": ""
+          "episodeType": "",
+          "savedFilePath": "04-日常素材/Harness-1：基于强化学习训练的有状态搜索20B检索子智能体.md"
         },
         {
           "title": "Opus 4.8 缓存命中率与有效价格可实时查看",
@@ -83,19 +89,26 @@
           "guid": "https://aihot.virxact.com/cmq392v1i051osl97zxmhrco3",
           "read": false,
           "starred": false,
-          "tags": [],
+          "tags": [
+            {
+              "name": "Saved",
+              "color": "#3498db"
+            }
+          ],
           "feedTitle": "AI HOT — 精选",
           "feedUrl": "https://aihot.virxact.com/feed.xml",
           "coverImage": "",
           "summary": "Harness 工程在智能体优先的世界中利用 OpenAI Codex 的实践文章，6月6日发布于 openai.com，在 Hacker News 上获得 102 点热度。",
           "author": "noreply@aihot.virxact.com (Hacker News 热门（buzzing.cc 中文翻译）)",
-          "saved": false,
+          "saved": true,
           "mediaType": "article",
           "duration": "",
           "explicit": false,
           "image": "",
           "category": "",
-          "episodeType": ""
+          "episodeType": "",
+          "savedFilePath": "04-日常素材/Harness 工程：在智能体优先的世界中运用 Codex.md",
+          "restrictedReason": "paywall or restricted"
         },
         {
           "title": "对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果",
