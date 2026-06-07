@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780826107774-o1bqwlm9r",
+  "providerId": "claude",
+  "title": "**「选题策划」基于信息源的高价值选题筛选与选题笔记自动化入库**",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780826107775,
+  "updatedAt": 1780826580690,
+  "lastResponseAt": 1780826580690,
+  "sessionId": "80a1f7c9-076a-45f8-8805-ec42578ec1c6",
+  "providerState": {
+    "providerSessionId": "80a1f7c9-076a-45f8-8805-ec42578ec1c6"
+  },
+  "currentNote": "00-模板库/Prompt-高价值选题自动筛选.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 93,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 64896,
+    "contextWindow": 200000,
+    "contextTokens": 64989,
+    "percentage": 32,
+    "contextWindowIsAuthoritative": true
+  }
+}
