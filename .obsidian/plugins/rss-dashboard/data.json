@@ -1214,7 +1214,7 @@
   "showFeedArt": true,
   "showThumbnails": true,
   "sidebarCollapsed": false,
-  "sidebarWidth": 280,
+  "sidebarWidth": 200,
   "collapsedFolders": [],
   "tagsCollapsed": true,
   "articleFilter": {
@@ -1327,7 +1327,7 @@
     "sidebarItemPaddingLeft": 2,
     "sidebarItemPaddingRight": 2,
     "cardColumnsPerRow": 0,
-    "cardSpacing": 15,
+    "cardSpacing": 2,
     "hideEmptyFeeds": false,
     "hideIconDashboard": false,
     "hideIconDiscover": false,
